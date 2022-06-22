@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
             ElevatedButton.icon(
               style: ElevatedButton.styleFrom(
                 minimumSize: const Size.fromHeight(50),
-              ), // Ratu Atikah Nurissobach - 2031710145
+              ), 
               icon: const Icon(Icons.arrow_back, size: 32),
               label: const Text(
                 'Sign Out',
